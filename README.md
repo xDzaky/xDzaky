@@ -5,7 +5,7 @@
  --> 💫 About Me:<br>
 
 🔭 Mahasiswa SMK Negri 1 Probolinggo<br>
-🌱 Masih Front End<br>
+🌱 Masih Belajar Front End<br>
 ⚡ Fun fact : INTRVT & Penikmat Mode Gelap<br>
 
 ## 🌐 Follow My Social Media<br>
