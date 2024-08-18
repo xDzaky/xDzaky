@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dzaky! <br>
 <hr>
-## 🌐 Follow My Social Media<br>
+ --> 💫 About Me:<br>
 
 🔭 Mahasiswa SMK Negri 1 Probolinggo<br>
 🌱 Masih Front End<br>
