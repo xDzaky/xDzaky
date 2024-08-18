@@ -9,7 +9,7 @@
 ⚡ Fun fact : INTRVT & Penikmat Mode Gelap<br>
 
 ## 🌐 Follow My Social Media<br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DzakyA) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DzakyA) [![TikTok](https://img.shields.io/badge/:badgeContent?logo=TikTok&logoColor=%23ffffff&color=%23000000&link=tiktok.com%2F%40xdzakyx_)]
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
