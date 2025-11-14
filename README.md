@@ -4,7 +4,7 @@
 <hr>
  --> 💫 About Me:<br>
 
-🔭 Siswa SMK Negri 1 Probolinggo<br>
+🔭 Siswa SMK Negeri 1 Kota Probolinggo<br>
 🌱 Masih Belajar Front End<br>
 ⚡ Fun fact : INTRVT & Penikmat Mode Gelap<br>
 
