@@ -8,8 +8,6 @@
 🌱 Masih Belajar Front End<br>
 ⚡ Fun fact : INTRVT & Penikmat Mode Gelap<br>
 
-## 🌐 Follow My Social Media<br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DzakyA) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=whit)](https://tiktok.com/@xdzakyx_)
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
